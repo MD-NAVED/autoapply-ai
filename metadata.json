@@ -1,0 +1,6 @@
+{
+  "name": "AutoApply AI",
+  "description": "An autonomous AI agent that analyzes your resume, searches for jobs in your preferred location, and automates the application process with personalized cover letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
